@@ -1,10 +1,10 @@
 # ConnectN (C)
-A ConnectN program in C. This game is based off of the connect4 game. But instead of 4 pieces lined up to win, you need a line of N pieces. The program expects 3 arguments. The number of rows, the number of columns, and the number N.
+A ConnectN program in C. This game is based off of the connect4 game. But instead of 4 pieces lined up to win, you need a line of N pieces. Hence the naming connectN. The program expects 3 arguments. The number of rows, the number of columns, and the number N.
 
 **Full Game Example**
 ----------------------------------
 ```
-main.exe  7 7 3
+connectN.exe  7 7 3
 
 6 * * * * * * *
 5 * * * * * * *
