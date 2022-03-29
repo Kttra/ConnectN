@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1495522874 source:c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\inputval.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<ctype.h>
+	<stdlib.h>
+	"inputVal.h"
+
+1495522765 c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\inputval.h
+	<stdbool.h>
+	<time.h>
+
+1495522999 source:c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"inputVal.h"
+	"setUpAndPlay.h"
+	"win.h"
+
+1495522782 c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\setupandplay.h
+
+1495522790 c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\win.h
+	<stdbool.h>
+	<time.h>
+
+1495553433 source:c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\setupandplay.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"setUpAndPlay.h"
+	"inputVal.h"
+
+1495556226 source:c:\users\kevin\onedrive\school\ecs30\homework\6.) homework 6\connectn files\main\win.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"win.h"
+	"setUpAndPlay.h"
+
+1495572606 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\cleanup.c
+	<stdlib.h>
+	"cleanUp.h"
+
+1495561510 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\cleanup.h
+
+1495572593 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\inputval.c
+	<stdio.h>
+	<stdbool.h>
+	<time.h>
+	<ctype.h>
+	<stdlib.h>
+	"inputVal.h"
+
+1495573450 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\inputval.h
+	<stdbool.h>
+
+1495568563 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	<stdbool.h>
+	"inputVal.h"
+	"setUpAndPlay.h"
+	"win.h"
+	"cleanUp.h"
+
+1495519182 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\setupandplay.h
+
+1495573447 d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\win.h
+	<stdbool.h>
+
+1495572919 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\setupandplay.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"setUpAndPlay.h"
+	"inputVal.h"
+
+1495573393 source:d:\users\kevin\desktop\school\classes\2nd year\3.) spring quarter 2017\ecs30\homework\6.) homework 6\connectn files\main\win.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"win.h"
+	"setUpAndPlay.h"
+	"cleanUp.h"
+
